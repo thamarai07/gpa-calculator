@@ -25,21 +25,21 @@ export const metadata = {
     "University GPA",
     "Free GPA Calculator",
   ],
-  authors: [{ name: "Your Name or Organization" }],
+  authors: [{ name: "gpacalculatoring" }],
   viewport: "width=device-width, initial-scale=1",
   robots: "index, follow",
   alternates: {
-    canonical: "https://your-gpa-calculator-site.com",
+    canonical: "https://gpacalculatoring.netlify.app/",
   },
   openGraph: {
     title: "GPA Calculator - Calculate Your Grade Point Average",
     description:
       "Easily calculate your GPA with our free online tool. Input courses, credits, and grades to get accurate results instantly.",
-    url: "https://your-gpa-calculator-site.com",
+    url: "https://gpacalculatoring.netlify.app/",
     siteName: "GPA Calculator",
     images: [
       {
-        url: "https://your-gpa-calculator-site.com/og-image.jpg",
+        url: "https://gpacalculatoring.netlify.app/",
         width: 1200,
         height: 630,
         alt: "GPA Calculator Preview",
@@ -53,7 +53,7 @@ export const metadata = {
     title: "GPA Calculator - Calculate Your GPA",
     description:
       "Instantly calculate your GPA with our free tool. Perfect for students!",
-    images: ["https://your-gpa-calculator-site.com/twitter-image.jpg"],
+    images: ["https://gpacalculatoring.netlify.app/"],
     creator: "@YourTwitterHandle",
   },
 };
@@ -65,7 +65,7 @@ const structuredData = {
   name: "GPA Calculator",
   description:
     "A free online tool to calculate your Grade Point Average (GPA) by inputting courses, credits, and grades.",
-  url: "https://your-gpa-calculator-site.com",
+  url: "https://gpacalculatoring.netlify.app/",
   applicationCategory: "Education",
   operatingSystem: "Web",
   offers: {
@@ -75,7 +75,7 @@ const structuredData = {
   },
   creator: {
     "@type": "Organization",
-    name: "Your Organization Name",
+    name: "gpacalculatoring",
   },
 };
 
